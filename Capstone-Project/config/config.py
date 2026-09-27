@@ -8,8 +8,8 @@ import os
 
 # ── Application Under Test ────────────────────────────────────────────────────
 BASE_URL      = "https://tutorialsninja.com/demo/"
-VALID_EMAIL   = "test@example.com"   # pre-registered on the demo site
-VALID_PASSWORD = "Test@1234"
+VALID_EMAIL   = "arkopan84@gmail.com"   # pre-registered on the demo site
+VALID_PASSWORD = "Arka@123"
 
 # ── Browser ───────────────────────────────────────────────────────────────────
 BROWSER       = "chrome"            # "chrome" | "firefox" | "edge"
@@ -17,7 +17,7 @@ HEADLESS      = False               # set True for CI environments
 
 # ── Waits (seconds) ───────────────────────────────────────────────────────────
 IMPLICIT_WAIT  = 10
-EXPLICIT_WAIT  = 20
+EXPLICIT_WAIT  = 10
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 ROOT_DIR       = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))

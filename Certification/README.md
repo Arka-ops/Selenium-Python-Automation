@@ -22,7 +22,7 @@ This folder contains certificates related to Python automation, Selenium WebDriv
 - **Authorized by:** Whizlabs
 - **Completion Date:** September 19, 2026
 - **Certificate:** [Selenium WebDriver with Python.pdf](./Selenium%20WebDriver%20with%20Python.pdf)
-- **Verification:** [Verify Certificate](https://coursera.org/verify/AETE09GY8J33)
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/0Q41O7JHKC9U)
 
 ---
 
@@ -32,7 +32,7 @@ This folder contains certificates related to Python automation, Selenium WebDriv
 - **Provider:** Coursera
 - **Completion Date:** September 26, 2026
 - **Certificate:** [TestAutomationWithPlaywright&RobotFramework.pdf](./TestAutomationWithPlaywright%26RobotFramework.pdf)
-- **Verification:** [Verify Certificate](https://coursera.org/verify/YDH4PBCB8JV3)
+- **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/certificate/4I2TJ8HD4ZFB)
 
 ---
 
