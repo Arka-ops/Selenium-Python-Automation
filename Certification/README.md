@@ -21,7 +21,7 @@ This folder contains certificates related to Python automation, Selenium WebDriv
 - **Provider:** Coursera
 - **Authorized by:** Whizlabs
 - **Completion Date:** September 19, 2026
-- **Certificate:** [Selenium WebDriver with Python.pdf](./Selenium%20WebDriver%20with%20Python.pdf)
+- **Certificate:** [Selenium WebDriver with Python.pdf](./Selenium-WebDriver-with-Python.pdf)
 - **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/0Q41O7JHKC9U)
 
 ---
