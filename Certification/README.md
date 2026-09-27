@@ -32,7 +32,7 @@ This folder contains certificates related to Python automation, Selenium WebDriv
 - **Course:** Test Automation with Playwright (Python) & Robot Framework
 - **Provider:** Coursera
 - **Completion Date:** September 26, 2026
-- **Certificate:** [TestAutomationWithPlaywright&RobotFramework.pdf](./TestAutomationWithPlaywright(Python)&RobotFramework.pdf)
+- **Certificate:** [TestAutomationWithPlaywright&RobotFramework.pdf](./TestAutomationwithPlaywright(Python)&RobotFramework.pdf)
 - **Verification:** [Verify Certificate](https://www.coursera.org/account/accomplishments/certificate/4I2TJ8HD4ZFB)
 
 ---
